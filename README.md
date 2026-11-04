@@ -12,6 +12,8 @@ Creators and small teams organizing several channels or turning product context 
 
 | Guide | What you will find |
 | --- | --- |
+| [Operating procedures](PROCEDURES.md) | Task prerequisites, exact sequence, expected result and recovery checks. |
+| [Technical user manual](MANUAL.md) | Task index and reference library. |
 | [Quick start](QUICK_START.md) | Prepare, complete and verify your first task. |
 | [Practical workflows](WORKFLOWS.md) | Concrete use cases and review steps. |
 | [Features and limitations](FEATURES_AND_LIMITS.md) | Supported workflows and important boundaries. |
