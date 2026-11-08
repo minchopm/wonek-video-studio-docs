@@ -2,7 +2,7 @@
 
 A macOS workspace for video assets, scripts, subtitles, voiceovers and short-form production.
 
-[Official product website](https://studio.wonek.com/) · [App Store listing](https://apps.apple.com/us/app/wonek-video-studio/id6761376446?mt=12)
+[Official product website](https://studio.wonek.com/) · [App Store listing](https://apps.apple.com/us/app/wonek-video-studio/id6761376446?mt=12) · [Side-by-side comparisons](https://studio.wonek.com/compare) · [Guides & workflows](https://studio.wonek.com/guides) · [Full LLM reference (llms-full.txt)](https://studio.wonek.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
 
 ## Who this is for
 
