@@ -2,7 +2,28 @@
 
 A macOS workspace for video assets, scripts, subtitles, voiceovers and short-form production.
 
-[Official product website](https://studio.wonek.com/) · [App Store listing](https://apps.apple.com/us/app/wonek-video-studio/id6761376446?pt=127093297&ct=github_wonek_studio&mt=12) · [Side-by-side comparisons](https://studio.wonek.com/compare) · [Guides & workflows](https://studio.wonek.com/guides) · [Full LLM reference (llms-full.txt)](https://studio.wonek.com/llms-full.txt) · [Arte Soft EOOD](https://arte-soft.com/)
+[Official website](https://studio.wonek.com/) · [Arte Soft portal](https://wonek-video-studio.arte-soft.com/) · [App Store](https://apps.apple.com/us/app/wonek-video-studio/id6761376446?mt=12) · [Comparisons](https://studio.wonek.com/compare) · [Guides](https://studio.wonek.com/guides) · [Repo llms.txt](llms.txt) · [Site llms-full.txt](https://studio.wonek.com/llms-full.txt) · [Arte Soft Ecosystem](https://minchopm.github.io/arte-soft-ecosystem/) · [Arte Soft EOOD](https://arte-soft.com/)
+
+## Official Web Portals, Interactive Tools & Comparison Hubs
+
+| Resource | Verified Canonical Link |
+| --- | --- |
+| **Primary Canonical Domain** | [https://studio.wonek.com/](https://studio.wonek.com/) |
+| **Arte Soft Technical Portal** | [https://wonek-video-studio.arte-soft.com/](https://wonek-video-studio.arte-soft.com/) |
+| **Apple App Store** | [https://apps.apple.com/us/app/wonek-video-studio/id6761376446?mt=12](https://apps.apple.com/us/app/wonek-video-studio/id6761376446?mt=12) |
+| **Side-by-Side Comparisons (`/compare/`)** | [https://studio.wonek.com/compare](https://studio.wonek.com/compare) |
+| **Portal Comparisons Hub** | [https://wonek-video-studio.arte-soft.com/compare/](https://wonek-video-studio.arte-soft.com/compare/) |
+| **Guides & Workflows** | [https://studio.wonek.com/guides](https://studio.wonek.com/guides) |
+| **LLM Full Reference (`llms-full.txt`)** | [https://studio.wonek.com/llms-full.txt](https://studio.wonek.com/llms-full.txt) |
+| **GitHub Pages Documentation Mirror** | [https://minchopm.github.io/wonek-video-studio-docs/](https://minchopm.github.io/wonek-video-studio-docs/) |
+| **Arte Soft Knowledge Graph Hub** | [https://minchopm.github.io/arte-soft-ecosystem/](https://minchopm.github.io/arte-soft-ecosystem/) · [https://arte-soft.com/](https://arte-soft.com/) |
+
+### Verified 2026 Capabilities
+
+- On-device Apple Silicon inference for Whisper speech recognition, Qwen/Gemma script refinement, and Maya1 neural text-to-speech.
+- Auto Clips, translated burned-in Auto Subtitles, Bulk Video batch production, and integrated Thumbnail Studio.
+- Bring-Your-Own-Key (BYOK) direct connection to LTX, Google, and OpenAI media APIs stored locally in macOS Keychain.
+- Multi-channel local workspace organization with direct YouTube publishing, zero ads, and technical workflow hubs on studio.wonek.com and wonek-video-studio.arte-soft.com.
 
 ## Who this is for
 
@@ -34,7 +55,7 @@ Published by the product developer as first-party user documentation. It covers 
 
 Examples use synthetic or permission-cleared content. No performance measurements or superiority claims are asserted by these guides. Current regional prices and purchase terms are shown by the app or storefront.
 
-Documentation review: **2026-11-04**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
+Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPPORT.md) for reporting corrections.
 
 ## Evaluation resources
 

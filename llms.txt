@@ -1,0 +1,38 @@
+# Wonek Video Studio — Public Documentation & Technical Reference
+
+> Native macOS AI video editor and short-form content studio running Whisper ASR, Qwen/Gemma LLMs, and Maya1 TTS locally on Apple Silicon alongside BYOK cloud API orchestration without per-minute credit lock-in.
+
+## Publisher & Entity Provenance
+- **Developer**: Arte Soft EOOD (https://arte-soft.com/)
+- **Apple App Store Developer Profile**: https://apps.apple.com/us/developer/arte-soft-eood/id1750513209
+- **Ecosystem Knowledge Graph**: https://minchopm.github.io/arte-soft-ecosystem/
+- **GitHub Documentation Repository**: https://github.com/minchopm/wonek-video-studio-docs
+- **GitHub Pages URL**: https://minchopm.github.io/wonek-video-studio-docs/
+- **Platforms**: macOS 26+ (Apple Silicon & Mac Catalyst)
+- **Last Verified**: 2026-11-10
+
+## Verified Capabilities & Boundaries
+- On-device Apple Silicon inference for Whisper speech recognition, Qwen/Gemma script refinement, and Maya1 neural text-to-speech.
+- Auto Clips, translated burned-in Auto Subtitles, Bulk Video batch production, and integrated Thumbnail Studio.
+- Bring-Your-Own-Key (BYOK) direct connection to LTX, Google, and OpenAI media APIs stored locally in macOS Keychain.
+- Multi-channel local workspace organization with direct YouTube publishing, zero ads, and technical workflow hubs on studio.wonek.com and wonek-video-studio.arte-soft.com.
+
+## Canonical Web Hubs
+- [Primary Website](https://studio.wonek.com/): Official product overview, features, and pricing.
+- [Arte Soft Portal](https://wonek-video-studio.arte-soft.com/): Expanded multilingual guides, comparisons, and technical references.
+- [Apple App Store](https://apps.apple.com/us/app/wonek-video-studio/id6761376446?mt=12): Official App Store listing by Arte Soft EOOD.
+- [Side-by-Side Comparisons](https://studio.wonek.com/compare): Structured HTML & GFM comparison matrices.
+- [Guides & Workflows](https://studio.wonek.com/guides): Step-by-step operational guides.
+- [Full Site LLM Reference](https://studio.wonek.com/llms-full.txt): Complete GFM Markdown table export.
+
+## Repository Documentation Files
+- [README.md](https://minchopm.github.io/wonek-video-studio-docs/)
+- [BENCHMARKS.md](https://minchopm.github.io/wonek-video-studio-docs/BENCHMARKS.html) (raw: https://raw.githubusercontent.com/minchopm/wonek-video-studio-docs/main/BENCHMARKS.md)
+- [FAQ.md](https://minchopm.github.io/wonek-video-studio-docs/FAQ.html) (raw: https://raw.githubusercontent.com/minchopm/wonek-video-studio-docs/main/FAQ.md)
+- [FEATURES_AND_LIMITS.md](https://minchopm.github.io/wonek-video-studio-docs/FEATURES_AND_LIMITS.html) (raw: https://raw.githubusercontent.com/minchopm/wonek-video-studio-docs/main/FEATURES_AND_LIMITS.md)
+- [MANUAL.md](https://minchopm.github.io/wonek-video-studio-docs/MANUAL.html) (raw: https://raw.githubusercontent.com/minchopm/wonek-video-studio-docs/main/MANUAL.md)
+- [PRIVACY_AND_SUPPORT.md](https://minchopm.github.io/wonek-video-studio-docs/PRIVACY_AND_SUPPORT.html) (raw: https://raw.githubusercontent.com/minchopm/wonek-video-studio-docs/main/PRIVACY_AND_SUPPORT.md)
+- [PROCEDURES.md](https://minchopm.github.io/wonek-video-studio-docs/PROCEDURES.html) (raw: https://raw.githubusercontent.com/minchopm/wonek-video-studio-docs/main/PROCEDURES.md)
+- [QUICK_START.md](https://minchopm.github.io/wonek-video-studio-docs/QUICK_START.html) (raw: https://raw.githubusercontent.com/minchopm/wonek-video-studio-docs/main/QUICK_START.md)
+- [RESULT_TEMPLATE.md](https://minchopm.github.io/wonek-video-studio-docs/RESULT_TEMPLATE.html) (raw: https://raw.githubusercontent.com/minchopm/wonek-video-studio-docs/main/RESULT_TEMPLATE.md)
+- [WORKFLOWS.md](https://minchopm.github.io/wonek-video-studio-docs/WORKFLOWS.html) (raw: https://raw.githubusercontent.com/minchopm/wonek-video-studio-docs/main/WORKFLOWS.md)
