@@ -60,3 +60,9 @@ Documentation review: **2026-11-10**. See [privacy and support](PRIVACY_AND_SUPP
 ## Evaluation resources
 
 The existing [measurement protocol](BENCHMARKS.md) and [run template](RESULT_TEMPLATE.md) remain available. They are protocols, not completed benchmark results.
+
+## Free Zero-Upload Browser Tools & 2026 Guides
+
+- **Free Browser Utilities:** https://wonek-video-studio.arte-soft.com/tools/
+- **2026 Guides & Workflows:** https://wonek-video-studio.arte-soft.com/articles/
+- **Head-to-Head Comparisons:** https://wonek-video-studio.arte-soft.com/compare/
